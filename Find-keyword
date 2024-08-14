@@ -1,0 +1,3 @@
+for sentence in sentences:
+    if 'temperature' in sentence:
+        print(sentence)
